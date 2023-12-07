@@ -30,6 +30,15 @@
         "gnkg": 6,
         "admin": 10
     },
+    "鱼库相对路径": "./plugins/钓鱼/data/json/鱼库.json",
+    "合成表相对路径": "./plugins/钓鱼/data/json/合成表.json",
+    "成就表相对路径": "./plugins/钓鱼/data/json/advancements.json",
+    "物生物表相对路径": "./plugins/钓鱼/data/json/wsw.json",
+    "钓竿s相对路径": "./plugins/钓鱼/data/json/钓竿",
+    "鱼篓s相对路径": "./plugins/钓鱼/data/json/鱼篓",
+    "个人背包s相对路径": "./plugins/钓鱼/data/json/个人背包",
+    "默认设置s相对路径": "./plugins/钓鱼/data/json/settings",
+    "成就s相对路径": "./plugins/钓鱼/data/json/成就",
     "lever": {
         "^阿瑶陪我钓鱼": true,
         "^我的鱼篓": true,
@@ -53,14 +62,5 @@
         "^查看鱼竿": true,
         "^我的鱼竿": true,
         "^化简": true
-    },
-    "鱼库相对路径": "./plugins/钓鱼/data/json/鱼库.json",
-    "合成表相对路径": "./plugins/钓鱼/data/json/合成表.json",
-    "成就表相对路径": "./plugins/钓鱼/data/json/advancements.json",
-    "物生物表相对路径": "./plugins/钓鱼/data/json/wsw.json",
-    "钓竿s相对路径": "./plugins/钓鱼/data/json/钓竿",
-    "鱼篓s相对路径": "./plugins/钓鱼/data/json/鱼篓",
-    "个人背包s相对路径": "./plugins/钓鱼/data/json/个人背包",
-    "默认设置s相对路径": "./plugins/钓鱼/data/json/settings",
-    "成就s相对路径": "./plugins/钓鱼/data/json/成就"
+    }
 }
