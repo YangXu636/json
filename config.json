@@ -31,7 +31,7 @@
         "admin": 10
     },
     "鱼库相对路径": "./plugins/钓鱼/data/json/鱼库.json",
-    "合成表相对路径": "./plugins/钓鱼/data/json/合成表.json",
+    "合成表相对路径": "./plugins/钓鱼/data/json/新合成表.json",
     "成就表相对路径": "./plugins/钓鱼/data/json/advancements.json",
     "物生物表相对路径": "./plugins/钓鱼/data/json/wsw.json",
     "钓竿s相对路径": "./plugins/钓鱼/data/json/钓竿",
