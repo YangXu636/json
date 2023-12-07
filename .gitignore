@@ -1,0 +1,29 @@
+# 项目本地个人文件
+venv/
+__pycache__/
+.vscode/
+gocq/
+qsign/
+backup/
+logs/
+res/
+config.toml
+# ban脚本
+*.bat
+# 不想推的文件
+video/
+image/
+cs.py
+ping.py
+忽略.json
+可爱图库/
+hello-world-main/
+鱼篓/
+个人背包/
+settings/
+钓竿/
+个人资产/
+log/
+成就/
+plugins/像素小区/data/json/浏览器记录.json
+备份/
