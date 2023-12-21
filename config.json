@@ -1,5 +1,4 @@
 {
-    "version": "1.9.1",
     "ops": {
         "2260194516": 10,
         "3626341539": 1,
@@ -31,7 +30,7 @@
         "gnkg": 6,
         "admin": 10
     },
-    "鱼库相对路径": "./plugins/钓鱼/data/json/鱼库.json",
+    "鱼库相对路径": "./plugins/钓鱼/data/json/新鱼库.json",
     "合成表相对路径": "./plugins/钓鱼/data/json/新合成表.json",
     "成就表相对路径": "./plugins/钓鱼/data/json/advancements.json",
     "物生物表相对路径": "./plugins/钓鱼/data/json/wsw.json",
@@ -40,6 +39,7 @@
     "个人背包s相对路径": "./plugins/钓鱼/data/json/个人背包",
     "默认设置s相对路径": "./plugins/钓鱼/data/json/settings",
     "成就s相对路径": "./plugins/钓鱼/data/json/成就",
+    "version": "1.9.1",
     "lever": {
         "^阿瑶陪我钓鱼": true,
         "^我的鱼篓": true,
@@ -63,6 +63,7 @@
         "^我的经验值": true,
         "^查看鱼竿": true,
         "^我的鱼竿": true,
-        "^化简": true
+        "^化简": true,
+        "^查看": true
     }
 }
