@@ -2756,7 +2756,7 @@
             },
             "产物": [
                 {
-                    "_getSameInRest0": 2
+                    "_getSameInRest0": "2*(int(tl)+1)"
                 }
             ],
             "奖励": {
