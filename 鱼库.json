@@ -126,6 +126,9 @@
             },
             {
                 "名字": "猫球火锅",
+                "图片": [
+                    "file:///C:\\ziyii\\bot\\plugins\\钓鱼\\res\\鱼种_附带图\\24.jpg"
+                ],
                 "效果": [
                     "不可捕捞"
                 ],
@@ -440,23 +443,6 @@
             },
             {
                 "名字": "穹宝",
-                "图片": [
-                    "file:///C:\\ziyii\\bot\\plugins\\钓鱼\\res\\鱼种_附带图\\$IYAX1KXXDXT%]_LUFPTMVA.jpg",
-                    "file:///C:\\ziyii\\bot\\plugins\\钓鱼\\res\\鱼种_附带图\\%FQHHE7}}SFEO~5])D5GM`G.jpg",
-                    "file:///C:\\ziyii\\bot\\plugins\\钓鱼\\res\\鱼种_附带图\\0U]_GV5W`HY}RCO7`D@U04M.jpg",
-                    "file:///C:\\ziyii\\bot\\plugins\\钓鱼\\res\\鱼种_附带图\\11A[H}DS28`2R$T[4Y%JQJS.jpg",
-                    "file:///C:\\ziyii\\bot\\plugins\\钓鱼\\res\\鱼种_附带图\\5]P3763AJ7OW`{NO9~CE%3G.jpg",
-                    "file:///C:\\ziyii\\bot\\plugins\\钓鱼\\res\\鱼种_附带图\\5AHEGC71V6]C2KNS88EEPZS.jpg",
-                    "file:///C:\\ziyii\\bot\\plugins\\钓鱼\\res\\鱼种_附带图\\[A_}TE1J)6F)O@1TN5UDL{I.jpg",
-                    "file:///C:\\ziyii\\bot\\plugins\\钓鱼\\res\\鱼种_附带图\\]3DN%4@2EB73%`[VS6LS5M8.jpg",
-                    "file:///C:\\ziyii\\bot\\plugins\\钓鱼\\res\\鱼种_附带图\\]J69[999[VH]OV3B]P`8~YN.jpg",
-                    "file:///C:\\ziyii\\bot\\plugins\\钓鱼\\res\\鱼种_附带图\\DJ($~9K}B~}@4TMAYK4$88O.jpg",
-                    "file:///C:\\ziyii\\bot\\plugins\\钓鱼\\res\\鱼种_附带图\\F)MW3]$[QU%YNY(O$B6`]IL.jpg",
-                    "file:///C:\\ziyii\\bot\\plugins\\钓鱼\\res\\鱼种_附带图\\JH)@TO($UWGX9A[B$E]8~F4.jpg",
-                    "file:///C:\\ziyii\\bot\\plugins\\钓鱼\\res\\鱼种_附带图\\R1N$Y`K_LG9PQEJAOQ30IXI.jpg",
-                    "file:///C:\\ziyii\\bot\\plugins\\钓鱼\\res\\鱼种_附带图\\UBABB@CD8Y6EO)5QZTJO[7G.jpg",
-                    "file:///C:\\ziyii\\bot\\plugins\\钓鱼\\res\\鱼种_附带图\\~8{D]Q%5T_(MK68{%3BYHG8.jpg"
-                ],
                 "效果": [
                     "不可捕捞"
                 ],

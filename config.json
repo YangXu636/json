@@ -1,7 +1,7 @@
 {
     "ops": {
         "2260194516": 10,
-        "3626341539": 1,
+        "3626341539": 2,
         "2635650784": 1,
         "2370927759": 10,
         "2377931425": 3
@@ -28,7 +28,8 @@
         "ch_n": 6,
         "功能开关": 6,
         "gnkg": 6,
-        "admin": 10
+        "admin": 10,
+        "add_allFish": 5
     },
     "鱼库相对路径": "./plugins/钓鱼/data/json/新鱼库.json",
     "合成表相对路径": "./plugins/钓鱼/data/json/新合成表.json",
@@ -39,7 +40,8 @@
     "个人背包s相对路径": "./plugins/钓鱼/data/json/个人背包",
     "默认设置s相对路径": "./plugins/钓鱼/data/json/settings",
     "成就s相对路径": "./plugins/钓鱼/data/json/成就",
-    "version": "1.9.1",
+    "等价交换表相对路径": "./plugins/钓鱼/data/json/EquivalentExchange.json",
+    "version": "1.9.4",
     "lever": {
         "^阿瑶陪我钓鱼": true,
         "^我的鱼篓": true,
@@ -65,6 +67,7 @@
         "^我的鱼竿": true,
         "^化简": true,
         "^查看": true,
-        "^阿瑶陪我用餐": false
+        "^阿瑶陪我用餐": false,
+        "^等价交换": false
     }
 }
