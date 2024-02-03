@@ -29,7 +29,9 @@
         "功能开关": 6,
         "gnkg": 6,
         "admin": 10,
-        "add_allFish": 5
+        "add_allfish": 5,
+        "advancements": 1,
+        "effect": 3
     },
     "鱼库相对路径": "./plugins/钓鱼/data/json/新鱼库.json",
     "合成表相对路径": "./plugins/钓鱼/data/json/新合成表.json",
@@ -41,6 +43,7 @@
     "默认设置s相对路径": "./plugins/钓鱼/data/json/settings",
     "成就s相对路径": "./plugins/钓鱼/data/json/成就",
     "等价交换表相对路径": "./plugins/钓鱼/data/json/EquivalentExchange.json",
+    "物品效果表相对路径": "./plugins/钓鱼/data/json/物品效果.json",
     "version": "1.9.4",
     "lever": {
         "^阿瑶陪我钓鱼": true,
